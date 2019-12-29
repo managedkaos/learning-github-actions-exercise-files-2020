@@ -6,7 +6,7 @@
 
         git init
         git add .
-        git commit -m “first check in”
+        git commit -m 'first check in'
 
 - Now add the new repository you created as a remote for the local repo.
 

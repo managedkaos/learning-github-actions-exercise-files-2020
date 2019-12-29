@@ -1,4 +1,4 @@
-# Exercise Files for Learning GitHub Actions 
+# Exercise Files for Learning GitHub Actions
 
 The exercise files are located in folders named to match the chapter and lesson they accompany.
 
@@ -23,16 +23,16 @@ We'll use the exercise files from Chapter 1, Lesson 1 for this example.
 
         git init
         git add .
-        git commit -m “first check in”
+        git commit -m 'first check in'
 
 - Now add the new repository you created as a remote for the local repo.
 
         git remote add origin git@github.com:YOUR_GITHUB_USER_NAME_HERE/ch01-01-01.git
-        
+
 - After the remote is added, push the files to the remote.
 
         git push -u origin master
-        
+
  - Browse to the repository on GitHub.com and reload the page to confirm the files have been properly pushed.
- 
+
 Once the files are hosted on GitHub.com, you're ready to start making changes locally and pushing them to the remote repo.
