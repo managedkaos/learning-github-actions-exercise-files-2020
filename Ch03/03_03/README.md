@@ -1,5 +1,10 @@
 # Passing arguments to an action
 
+In this lesson, arguments are passed to the following actions:
+
+- [actions/checkout](https://github.com/actions/checkout)
+- [actions/setup-java](https://github.com/actions/setup-java)
+
 ```
 name: Build Tomcat
 
