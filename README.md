@@ -2,14 +2,13 @@
 
 The exercise files are located in folders named to match the chapter and lesson they accompany.
 
+- *PREREQUSITES: You'll need to have the `git` command line tool installed for your system and access to a terminal program like [GitBash](https://gitforwindows.org/) on Windows or [iTerm2](https://www.iterm2.com/) on macOS.  The default terminal program for your system will work as well as long as the git program is in your PATH.*
+
 ## Using Exercise Files with Repositories
 
 Follow these steps if you are following along and want to use the exercise files the same way they are used with in the course.
 
 We'll use the exercise files from Chapter 1, Lesson 1 for this example.
-
-- *PREREQUSITES: You'll need to have the `git` command line tool installed for your system and access to a terminal program like [GitBash](https://gitforwindows.org/) on Windows or [iTerm2](https://www.iterm2.com/) on macOS.  The default terminal program for your system will work as well as long as the git program is in your PATH.*
-
 
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `ch01-01-01`.
 
