@@ -6,7 +6,7 @@ The exercise files are located in folders named to match the chapter and lesson 
 
 ## Using Exercise Files with Repositories
 
-Follow these steps if you are following along and want to use the exercise files the same way they are used with in the course.
+Follow these steps if you want to use the exercise files the same way they are used within the course.
 
 We'll use the exercise files from Chapter 1, Lesson 1 for this example.
 
