@@ -1,5 +1,10 @@
 # Chapter 05_11
 
+This directory contains two sub-directories, one for the `keyword-release-action` files and one for the `super-cool-project` files.
+
+Complete the following steps for *both* directories.
+
+
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
 
 - In a terminal, run the following commands to initialize the directory as a git repository.
